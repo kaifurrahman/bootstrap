@@ -1,0 +1,16 @@
+#h1{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(assets/images/architect.jpg);
+    background-position: bottom center;
+}
+
+#padding{
+    background-color: rgba(0, 0, 0, 0.70);
+}
+#a-text{
+    letter-spacing: 2px;
+}
+footer{
+    padding-top: 2px;
+}
